@@ -1,0 +1,46 @@
+{
+  "quotes": [
+    {
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "categories": ["inspiration", "motivation"],
+      "language": "English"
+    },
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "categories": ["life", "philosophy"],
+      "language": "English"
+    },
+    {
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "categories": ["self-identity", "inspiration"],
+      "language": "English"
+    },
+    {
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "categories": ["life", "wisdom"],
+      "language": "English"
+    },
+    {
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "categories": ["dreams", "motivation"],
+      "language": "English"
+    },
+    {
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "categories": ["self-reflection", "wisdom"],
+      "language": "English"
+    },
+    {
+      "quote": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon",
+      "categories": ["vida", "filosofía"],
+      "language": "Spanish"
+    }
+  ]
+}
