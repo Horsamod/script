@@ -3,44 +3,476 @@
     {
       "quote": "The only limit to our realization of tomorrow is our doubts of today.",
       "author": "Franklin D. Roosevelt",
-      "categories": ["inspiration", "motivation"],
+      "categories": [
+        "inspiration",
+        "motivation"
+      ],
       "language": "English"
     },
     {
       "quote": "Life is what happens when you're busy making other plans.",
       "author": "John Lennon",
-      "categories": ["life", "philosophy"],
-      "language": "English"
-    },
-    {
-      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "categories": ["self-identity", "inspiration"],
+      "categories": [
+        "life",
+        "philosophy"
+      ],
       "language": "English"
     },
     {
       "quote": "In three words I can sum up everything I've learned about life: it goes on.",
       "author": "Robert Frost",
-      "categories": ["life", "wisdom"],
+      "categories": [
+        "life",
+        "wisdom"
+      ],
       "language": "English"
     },
     {
       "quote": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
-      "categories": ["dreams", "motivation"],
+      "categories": [
+        "dreams",
+        "motivation"
+      ],
       "language": "English"
     },
     {
-      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "categories": ["self-reflection", "wisdom"],
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "success",
+        "focus"
+      ],
       "language": "English"
     },
     {
-      "quote": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "confidence",
+        "inspiration"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "categories": [
+        "perseverance",
+        "time"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "You miss 100% of the shots you don’t take.",
+      "author": "Wayne Gretzky",
+      "categories": [
+        "risk",
+        "opportunity"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay",
+      "categories": [
+        "future",
+        "innovation"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "It always seems impossible until it’s done.",
+      "author": "Nelson Mandela",
+      "categories": [
+        "perseverance",
+        "inspiration"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "categories": [
+        "happiness",
+        "self-help"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "action",
+        "resilience"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "categories": [
+        "perseverance",
+        "motivation"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Doubt kills more dreams than failure ever will.",
+      "author": "Suzy Kassem",
+      "categories": [
+        "doubt",
+        "dreams"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "confidence",
+        "dreams"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "categories": [
+        "success",
+        "courage"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "categories": [
+        "hardship",
+        "destiny"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "categories": [
+        "passion",
+        "work"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein",
+      "categories": [
+        "success",
+        "value"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Don’t let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "categories": [
+        "focus",
+        "time"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+      "author": "Steve Jobs",
+      "categories": [
+        "time",
+        "self-identity"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "categories": [
+        "change",
+        "inspiration"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "categories": [
+        "growth",
+        "goals"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "If you want to achieve greatness stop asking for permission.",
+      "author": "Anonymous",
+      "categories": [
+        "greatness",
+        "action"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "categories": [
+        "dreams",
+        "goals"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Dream big and dare to fail.",
+      "author": "Norman Vaughan",
+      "categories": [
+        "dreams",
+        "risk"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "categories": [
+        "action",
+        "impact"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Motivation is what gets you started. Habit is what keeps you going.",
+      "author": "Jim Ryun",
+      "categories": [
+        "motivation",
+        "habit"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "categories": [
+        "positivity",
+        "inspiration"
+      ],
+      "language": "English"
+    },
+    {
+      "quote": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser",
+      "categories": [
+        "opportunity",
+        "action"
+      ],
+      "language": "English"
+    }
+  ],
+  "author_images": [
+    {
+      "author": "Franklin D. Roosevelt",
+      "image_url": "https://example.com/franklin.png"
+    },
+    {
       "author": "John Lennon",
-      "categories": ["vida", "filosofía"],
-      "language": "Spanish"
+      "image_url": "https://example.com/john.png"
+    },
+    {
+      "author": "Robert Frost",
+      "image_url": "https://example.com/robert.png"
+    },
+    {
+      "author": "Eleanor Roosevelt",
+      "image_url": "https://example.com/eleanor.png"
+    },
+    {
+      "author": "Henry David Thoreau",
+      "image_url": "https://example.com/thoreau.png"
+    },
+    {
+      "author": "Theodore Roosevelt",
+      "image_url": "https://example.com/theodore.png"
+    },
+    {
+      "author": "Sam Levenson",
+      "image_url": "https://example.com/levenson.png"
+    },
+    {
+      "author": "Wayne Gretzky",
+      "image_url": "https://example.com/gretzky.png"
+    },
+    {
+      "author": "Alan Kay",
+      "image_url": "https://example.com/kay.png"
+    },
+    {
+      "author": "Nelson Mandela",
+      "image_url": "https://example.com/mandela.png"
+    },
+    {
+      "author": "Dalai Lama",
+      "image_url": "https://example.com/dalai.png"
+    },
+    {
+      "author": "Confucius",
+      "image_url": "https://example.com/confucius.png"
+    },
+    {
+      "author": "Suzy Kassem",
+      "image_url": "https://example.com/kassem.png"
+    },
+    {
+      "author": "Winston Churchill",
+      "image_url": "https://example.com/churchill.png"
+    },
+    {
+      "author": "C.S. Lewis",
+      "image_url": "https://example.com/lewis.png"
+    },
+    {
+      "author": "Steve Jobs",
+      "image_url": "https://example.com/jobs.png"
+    },
+    {
+      "author": "Albert Einstein",
+      "image_url": "https://example.com/einstein.png"
+    },
+    {
+      "author": "Will Rogers",
+      "image_url": "https://example.com/rogers.png"
+    },
+    {
+      "author": "Mahatma Gandhi",
+      "image_url": "https://example.com/gandhi.png"
+    },
+    {
+      "author": "Zig Ziglar",
+      "image_url": "https://example.com/ziglar.png"
+    }
+  ],
+  "category_logos": [
+    {
+      "category": "inspiration",
+      "logo_url": "https://example.com/inspiration_logo.png"
+    },
+    {
+      "category": "motivation",
+      "logo_url": "https://example.com/motivation_logo.png"
+    },
+    {
+      "category": "life",
+      "logo_url": "https://example.com/life_logo.png"
+    },
+    {
+      "category": "philosophy",
+      "logo_url": "https://example.com/philosophy_logo.png"
+    },
+    {
+      "category": "wisdom",
+      "logo_url": "https://example.com/wisdom_logo.png"
+    },
+    {
+      "category": "dreams",
+      "logo_url": "https://example.com/dreams_logo.png"
+    },
+    {
+      "category": "success",
+      "logo_url": "https://example.com/success_logo.png"
+    },
+    {
+      "category": "confidence",
+      "logo_url": "https://example.com/confidence_logo.png"
+    },
+    {
+      "category": "perseverance",
+      "logo_url": "https://example.com/perseverance_logo.png"
+    },
+    {
+      "category": "time",
+      "logo_url": "https://example.com/time_logo.png"
+    },
+    {
+      "category": "risk",
+      "logo_url": "https://example.com/risk_logo.png"
+    },
+    {
+      "category": "opportunity",
+      "logo_url": "https://example.com/opportunity_logo.png"
+    },
+    {
+      "category": "future",
+      "logo_url": "https://example.com/future_logo.png"
+    },
+    {
+      "category": "happiness",
+      "logo_url": "https://example.com/happiness_logo.png"
+    },
+    {
+      "category": "self-help",
+      "logo_url": "https://example.com/self_help_logo.png"
+    },
+    {
+      "category": "action",
+      "logo_url": "https://example.com/action_logo.png"
+    },
+    {
+      "category": "resilience",
+      "logo_url": "https://example.com/resilience_logo.png"
+    },
+    {
+      "category": "doubt",
+      "logo_url": "https://example.com/doubt_logo.png"
+    },
+    {
+      "category": "courage",
+      "logo_url": "https://example.com/courage_logo.png"
+    },
+    {
+      "category": "hardship",
+      "logo_url": "https://example.com/hardship_logo.png"
+    },
+    {
+      "category": "destiny",
+      "logo_url": "https://example.com/destiny_logo.png"
+    },
+    {
+      "category": "passion",
+      "logo_url": "https://example.com/passion_logo.png"
+    },
+    {
+      "category": "work",
+      "logo_url": "https://example.com/work_logo.png"
+    },
+    {
+      "category": "value",
+      "logo_url": "https://example.com/value_logo.png"
+    },
+    {
+      "category": "positivity",
+      "logo_url": "https://example.com/positivity_logo.png"
+    },
+    {
+      "category": "growth",
+      "logo_url": "https://example.com/growth_logo.png"
+    },
+    {
+      "category": "goals",
+      "logo_url": "https://example.com/goals_logo.png"
+    },
+    {
+      "category": "greatness",
+      "logo_url": "https://example.com/greatness_logo.png"
+    },
+    {
+      "category": "impact",
+      "logo_url": "https://example.com/impact_logo.png"
+    },
+    {
+      "category": "habit",
+      "logo_url": "https://example.com/habit_logo.png"
     }
   ]
 }
