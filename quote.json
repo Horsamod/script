@@ -1,6 +1,907 @@
 {
   "quotes": [
 
+  {
+    "quote": "ভালো কাজ করতে কখনও দেরি করো না।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "action",
+      "motivation"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সত্য কখনো ক্ষুদ্র হয় না, তা নির্ভয়ে অবস্থান করে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "truth",
+      "courage"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "বিনা প্রচেষ্টা কোনো সাফল্য অর্জন করা যায় না।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "success",
+      "effort"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ধৈর্য্য ধারণ করাই প্রকৃত শক্তির প্রতীক।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "patience",
+      "strength"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "তোমার বিশ্বাসই তোমার ভবিষ্যৎ গড়ে তোলে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "belief",
+      "future"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "একটি ভুল শুধরে নেয়া, তা ভুল না করার চেয়েও বড় কাজ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "mistakes",
+      "learning"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "অহিংসা মানে শুধুমাত্র সহিংসতার অনুপস্থিতি নয়, এটি ভালোবাসার উপস্থিতিও।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "nonviolence",
+      "love"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যে নিজেকে নিয়ন্ত্রণ করতে পারে, সে পৃথিবীকে জয় করতে পারে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "self-control",
+      "power"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "প্রকৃত সৌন্দর্য অন্তরের ভালোবাসা ও দয়ার মধ্যে বিদ্যমান।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "beauty",
+      "kindness"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "জীবন যতই কঠিন হোক, তুমি সর্বদা নিজের পথ তৈরি করতে পার।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "life",
+      "resilience"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যখন আমি হতাশ হই, তখন আমি মনে করি, সত্য ও ভালোবাসার পথ সবসময় জয়ী হয়।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "truth",
+      "hope"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "অন্যের ভুল ক্ষমা করাই তোমার নিজের শান্তির পথ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "forgiveness",
+      "peace"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ছোট পরিবর্তনই বড় পরিবর্তনের পথ তৈরি করে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "change",
+      "progress"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সুখী জীবন পাওয়ার মূল চাবিকাঠি হলো সরলতা।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "simplicity",
+      "happiness"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "তুমি যেমন ভাবো, তেমনি তুমি হয়ে ওঠো।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "thoughts",
+      "self-growth"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভালো কাজ কখনোই ছোট নয়, প্রতিটি ভালো কাজ গুরুত্বপূর্ণ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "good deeds",
+      "importance"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "প্রত্যেক দিনই একটি নতুন সুযোগ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "life",
+      "opportunity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যদি আমরা নিজেদের বদলাই, তবে পৃথিবীও বদলাবে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "change",
+      "self-improvement"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "নম্রতা কখনো দুর্বলতার লক্ষণ নয়; এটি সত্যিকারের শক্তি।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "humility",
+      "strength"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ধৈর্য ধরো, কারণ সঠিক ফলাফল পেতে সময় লাগে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "patience",
+      "success"
+    ],
+    "language": "Bengali"
+  },
+
+  {
+    "quote": "তুমি যেই পরিবর্তন দেখতে চাও, সেই পরিবর্তন নিজে হও।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "inspiration",
+      "change"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "নিজেকে খুঁজে পাওয়ার সর্বোত্তম উপায় হল অন্যের সেবায় নিজেকে হারিয়ে ফেলা।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "self-discovery",
+      "service"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "চোখের বদলে চোখ গোটা পৃথিবীকে অন্ধ করে দেবে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "peace",
+      "nonviolence"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "এমনভাবে বাঁচো যেন কালই তোমার শেষ দিন, আর এমন শিখো যেন তুমি অনন্তকাল বাঁচবে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "life",
+      "education"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সুখ হলো যখন তুমি যা ভাবো, যা বলো, আর যা করো, সেগুলো সামঞ্জস্যপূর্ণ থাকে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "happiness",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "দুর্বলরা কখনো ক্ষমা করতে পারে না। ক্ষমা শক্তিশালীদের গুণ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "strength",
+      "forgiveness"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "তোমার কাজের ফলাফল তুমি জানবে না, কিন্তু কিছু না করলে ফলাফল আসবে না।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "action",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভুল করার স্বাধীনতা ছাড়া স্বাধীনতার কোনো অর্থ নেই।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "freedom",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "শক্তি শারীরিক সক্ষমতা থেকে আসে না। এটি আসে অবিচল ইচ্ছাশক্তি থেকে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "strength",
+      "willpower"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভবিষ্যৎ নির্ভর করে তুমি আজ কি করছ তার ওপর।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "future",
+      "action"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মানবতার ওপর বিশ্বাস হারিও না। মানবতা একটি সাগর; কয়েক ফোঁটা নোংরা হলে সাগর নোংরা হয়ে যায় না।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "faith",
+      "humanity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মৃদুভাবে কাজ করেও তুমি পৃথিবীকে বদলে দিতে পার।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "gentleness",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "স্বাস্থ্যই আসল সম্পদ, সোনাদানা নয়।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "health",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "পৃথিবীতে সবার প্রয়োজন মেটানোর মতো আছে, কিন্তু লোভ মেটানোর মতো নয়।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "nature",
+      "sustainability"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "জীবনে গতি বাড়ানোর চেয়ে জীবনের মান বাড়ানো বেশি গুরুত্বপূর্ণ।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "life",
+      "simplicity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সেবা যদি আনন্দ ছাড়া করা হয়, তবে তা সেবক ও প্রাপক কারও জন্যই ভালো নয়।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "service",
+      "joy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "কোনো কিছুর ওপর বিশ্বাস রাখো, আর তা জীবনে প্রয়োগ করো, অন্যথায় তা অসততা।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "belief",
+      "integrity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "কর্ম তোমার অগ্রাধিকার প্রকাশ করে।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "action",
+      "priorities"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ক্ষমতাহীনদের জন্য অপেক্ষা করা শক্তিহীনতারই চিহ্ন।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "strength",
+      "action"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "একটি হাসি শান্তির পথের সূচনা।",
+    "author": "মহাত্মা গান্ধী",
+    "categories": [
+      "peace",
+      "happiness"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "inspiration",
+      "change"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "self-discovery",
+      "service"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "An eye for an eye will only make the whole world blind.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "peace",
+      "nonviolence"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "life",
+      "education"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "happiness",
+      "life"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "strength",
+      "forgiveness"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "You may never know what results come of your actions, but if you do nothing, there will be no results.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "action",
+      "inspiration"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "freedom",
+      "life"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "strength",
+      "willpower"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "future",
+      "action"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "faith",
+      "humanity"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "In a gentle way, you can shake the world.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "gentleness",
+      "inspiration"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "It is health that is real wealth and not pieces of gold and silver.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "health",
+      "life"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Earth provides enough to satisfy every man's needs, but not every man's greed.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "nature",
+      "sustainability"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "There is more to life than increasing its speed.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "life",
+      "simplicity"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "You may never know what results come of your actions, but if you do nothing, there will be no results.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "action",
+      "inspiration"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Service which is rendered without joy helps neither the servant nor the served.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "service",
+      "joy"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "self-discovery",
+      "service"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "To believe in something, and not to live it, is dishonest.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "belief",
+      "integrity"
+    ],
+    "language": "English"
+  },
+  {
+    "quote": "Action expresses priorities.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "action",
+      "priorities"
+    ],
+    "language": "English"
+  },
+
+  {
+    "quote": "সবাই তোমাকে ভুল বুঝতে পারে, তবু নিজের প্রতি বিশ্বাস রাখো।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "motivation",
+      "self-belief"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "আলো তার পথ খুঁজে নেবে, অন্ধকারকে ভেদ করে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "hope",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যেখানে মনের স্বাধীনতা নেই, সেখানে কোনো সৃষ্টিশীলতা নেই।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "freedom",
+      "creativity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মৃত্যু জীবনের শেষ নয়, এটি একটি নতুন সূচনা।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভালোবাসার চেয়ে বড় শক্তি পৃথিবীতে নেই।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love",
+      "power"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "শিক্ষার মূল লক্ষ্য হল স্বাধীন চিন্তা করার ক্ষমতা তৈরি করা।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "education",
+      "freedom"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যে স্বপ্ন দেখতে জানে না, সে বড় কিছু অর্জন করতে পারে না।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "dream",
+      "success"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "প্রকৃতি থেকে আমরা যত শিখি, ততই জ্ঞানী হই।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "nature",
+      "knowledge"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যে জীবনে সঙ্গীত নেই, সেই জীবন শূন্য।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "music",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "দুঃখের মধ্য দিয়েই মানুষ নিজেকে চেনে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "sorrow",
+      "self-discovery"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "বিরুদ্ধতাই জীবনের প্রকৃত শিক্ষকের মতো।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "adversity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভালো কাজ করার আনন্দের সাথে কিছুই তুলনীয় নয়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "happiness",
+      "work"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "পথিক পথ হারাবে, তবু পথ চলাই জীবনের সৌন্দর্য।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "journey"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সময় সব দুঃখ মুছে দেয়, শুধু স্মৃতি রেখে যায়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "time",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যে মন শুদ্ধ, সেই মনের সামনে সব বাধা ক্ষুদ্র।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "purity",
+      "strength"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সৌন্দর্যের আসল রূপ তার অন্তর্নিহিত সত্যে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "beauty",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভালোবাসা শুধু অনুভবের নয়, এটি কর্মের মাধ্যমে প্রকাশ পায়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love",
+      "action"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সৃষ্টির আনন্দই জীবনের আসল সার্থকতা।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "creativity",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "তুমি তোমার নিজের আলো জ্বালাও, অন্যের আলো ধার করার প্রয়োজন নেই।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "motivation",
+      "self-reliance"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যে জীবন ভয় পায় না, সে জীবনের প্রকৃত অর্থ খুঁজে পায়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "fearlessness",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+
+  {
+    "quote": "যদি তোর ডাক শুনে কেউ না আসে, তবে একলা চলো রে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "motivation"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "জীবনের গভীরতম সত্য প্রকাশ পায় ভালোবাসার মাধ্যমে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "ভালোবাসা হচ্ছে জীবনের পরম সত্য।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "আমরা ভয় পাই না মরতে, আমরা ভয় পাই জীবনকে হারাতে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "আশা হল জীবনের আলোর দিশারি।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "hope"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "বিশ্বাস হারিও না, পৃথিবীতে সুন্দর কিছু এখনও বাকি আছে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "faith",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মানুষের প্রতি মানুষের ভালোবাসাই পৃথিবীকে সুন্দর করে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love",
+      "humanity"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যেখানে ভয় নেই, যেখানে মনের স্বাধীনতা আছে, সেইখানে আমার দেশ।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "freedom",
+      "patriotism"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মানুষের জীবনে যা কিছু মহৎ, তা ভালোবাসার জন্য।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "love"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "শিক্ষার উদ্দেশ্য শুধু জ্ঞান অর্জন নয়, চরিত্র গঠনও।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "education",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সৌন্দর্যকে বোঝা যায় না, তা অনুভব করতে হয়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "beauty",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "জীবন এক অজানা পথ, সেখানে প্রত্যেক মুহূর্ত একটি নতুন অভিজ্ঞতা।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যেখানে জ্ঞান ভয়মুক্ত, সেখানেই মুক্তি।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "freedom",
+      "knowledge"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "শিল্প হচ্ছে জীবনের সত্য প্রকাশের একটি মাধ্যম।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "art",
+      "philosophy"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "যদি প্রেমের অর্থ হয় নিজের সুখ বিলিয়ে দেওয়া, তবে সেটিই প্রকৃত প্রেম।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "love",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "জীবনের প্রকৃত সার্থকতা হল নিজের আত্মার বিকাশ।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "life",
+      "spirituality"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "মানুষের মধ্যে ভালোবাসাই ঈশ্বরের সত্য প্রকাশ।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "spirituality",
+      "love"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "সংগীত হল মনের ভাষা।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "music",
+      "art"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "কৃতজ্ঞতাই জীবনকে সুন্দর করে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "gratitude",
+      "life"
+    ],
+    "language": "Bengali"
+  },
+  {
+    "quote": "বিশ্বাস ছাড়া কোনো মহৎ কাজ সম্ভব নয়।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "categories": [
+      "faith",
+      "inspiration"
+    ],
+    "language": "Bengali"
+  },
+
 {
       "quote": "The only limit to our realization of tomorrow is our doubts of today.",
       "author": "Franklin D. Roosevelt",
